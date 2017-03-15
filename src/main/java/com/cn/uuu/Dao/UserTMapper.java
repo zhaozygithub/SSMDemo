@@ -1,7 +1,7 @@
 package com.cn.uuu.Dao;
 
-import com.cn.uuu.Dao.po.UserT;
-import com.cn.uuu.Dao.po.UserTExample;
+import com.cn.uuu.po.UserT;
+import com.cn.uuu.po.UserTExample;
 import java.util.List;
 import org.apache.ibatis.annotations.Param;
 

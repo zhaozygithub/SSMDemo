@@ -11,8 +11,8 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
-import com.cn.uuu.Dao.Service.UserService;
-import com.cn.uuu.Dao.po.UserT;
+import com.cn.uuu.Service.UserService;
+import com.cn.uuu.po.UserT;
 
 @Controller
 public class UserController {

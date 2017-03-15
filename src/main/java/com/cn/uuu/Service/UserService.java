@@ -1,10 +1,10 @@
-package com.cn.uuu.Dao.Service;
+package com.cn.uuu.Service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.cn.uuu.Dao.UserTMapper;
-import com.cn.uuu.Dao.po.UserT;
+import com.cn.uuu.po.UserT;
 
 @Service("UserService")
 public class UserService {

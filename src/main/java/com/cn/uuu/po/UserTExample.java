@@ -1,4 +1,4 @@
-package com.cn.uuu.Dao.po;
+package com.cn.uuu.po;
 
 import java.util.ArrayList;
 import java.util.List;

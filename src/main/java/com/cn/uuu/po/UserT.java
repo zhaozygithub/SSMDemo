@@ -1,4 +1,4 @@
-package com.cn.uuu.Dao.po;
+package com.cn.uuu.po;
 
 public class UserT {
     private Integer id;
