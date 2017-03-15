@@ -4,14 +4,7 @@ WHERE TABLE_SCHEMA='demo' AND TABLE_NAME='area' ;
 
 
 --Tomcat、Resin、JBoss、WebSphere 和 WebLogic 等
-
-
-
-
-
-
-
-
+--这是个网页时添加的
 
 
 
